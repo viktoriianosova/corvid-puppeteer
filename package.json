@@ -1,0 +1,22 @@
+{
+	"name": "puppeteer-corvid",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test": "jest"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"devDependencies": {
+		"corvid-cli": "^0.2.0",
+		"corvid-types": "^0.1.86",
+		"jest": "^24.9.0"
+	},
+	"dependencies": {
+		"@types/jest": "^24.0.18",
+		"@wix/corvid-test-utils": "^2.0.3",
+		"puppeteer": "^1.20.0"
+	}
+}

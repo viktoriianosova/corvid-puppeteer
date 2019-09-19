@@ -1,0 +1,28 @@
+{"message":"Server starting at /Users/viktoriian/Desktop/puppeteer-corvid","level":"info","timestamp":"2019-09-19T14:38:49.803Z"}
+{"message":"Watching for file changes at [src]","level":"verbose","timestamp":"2019-09-19T14:38:49.810Z"}
+{"message":"Server listening at editor port [5000], admin port [3000]","level":"info","timestamp":"2019-09-19T14:38:49.849Z"}
+{"message":"Admin connected","level":"verbose","timestamp":"2019-09-19T14:38:49.869Z"}
+{"message":"Socket event GET_STATUS received","level":"info","timestamp":"2019-09-19T14:38:49.889Z"}
+{"message":"pulling [https://www.wix.com/editor/9df17744-3321-498d-b156-bfc4bc9e3307?petri_ovr=specs.ExcludeSiteFromSsr=true&corvidSessionId=2343883e-255b-458d-b7d2-3609a70f1fa1&localServerPort=5000&x-wix-bi-context=eyJidWlsZGVyRW52IjoibG9jYWwiLCJpc0hlYWRsZXNzIjp0cnVlfQ==]","level":"info","timestamp":"2019-09-19T14:38:49.891Z"}
+{"message":"Accepted origin [https://editor.wix.com]","level":"verbose","timestamp":"2019-09-19T14:38:55.026Z"}
+{"message":"Editor connected","level":"verbose","timestamp":"2019-09-19T14:38:55.027Z"}
+{"message":"Socket event HANDSHAKE received","level":"info","timestamp":"2019-09-19T14:38:55.033Z"}
+{"message":"Socket event IS_CLONE_MODE received","level":"info","timestamp":"2019-09-19T14:38:55.037Z"}
+{"message":"Socket event IS_CLONE_MODE received","level":"info","timestamp":"2019-09-19T14:38:55.812Z"}
+{"message":"Socket event UPDATE_DOCUMENT received","level":"info","timestamp":"2019-09-19T14:38:58.016Z"}
+{"message":"Updating local site document","level":"verbose","timestamp":"2019-09-19T14:38:58.017Z"}
+{"message":"Backing up site","level":"info","timestamp":"2019-09-19T14:38:58.017Z"}
+{"message":"Socket event UPDATE_CODE received","level":"info","timestamp":"2019-09-19T14:38:58.018Z"}
+{"message":"Updating local code files","level":"verbose","timestamp":"2019-09-19T14:38:58.019Z"}
+{"message":"Socket event UPDATE_CODE_INTELLIGENCE received","level":"info","timestamp":"2019-09-19T14:38:58.020Z"}
+{"message":"Updating local code intelligence","level":"verbose","timestamp":"2019-09-19T14:38:58.021Z"}
+{"message":"Backing up site complete","level":"info","timestamp":"2019-09-19T14:38:58.022Z"}
+{"message":"Deleting backup","level":"info","timestamp":"2019-09-19T14:38:58.037Z"}
+{"message":"Deleting backup complete","level":"info","timestamp":"2019-09-19T14:38:58.040Z"}
+{"message":"Updating local site document done","level":"verbose","timestamp":"2019-09-19T14:38:58.040Z"}
+{"message":"Updating local code files done","level":"verbose","timestamp":"2019-09-19T14:38:58.065Z"}
+{"message":"Updating local code intelligence done","level":"verbose","timestamp":"2019-09-19T14:38:58.079Z"}
+{"message":"Clone complete","level":"verbose","timestamp":"2019-09-19T14:38:58.080Z"}
+{"message":"Server closing","level":"info","timestamp":"2019-09-19T14:38:58.086Z"}
+{"message":"Editor disconnected","level":"verbose","timestamp":"2019-09-19T14:38:58.087Z"}
+{"message":"Admin disconnected","level":"verbose","timestamp":"2019-09-19T14:38:58.088Z"}
